@@ -1,0 +1,9 @@
+  Version 0.0.1a  2013-09-29
+  ------------------------------------------------------------------------------
+    - first release, only for Windows
+    - Qt GUI must work (CLI and WUI not testable)
+    - wallet dump and wallet recovery must work (not the "with(out) balance" option)
+    - message signing/verifying should work (compatible with bitcoin-qt)
+    
+    
+    

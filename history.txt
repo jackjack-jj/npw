@@ -1,5 +1,10 @@
+  Version 0.0.1a2  2013-10-12  SHA256:cbd79d59112d9180e2f3f2d8fb631d9a1b36dc4a0207fa3f39832325697606ed
+  --------------------------------------------------------------------------------------------------------
+    - first release of the python file
+
+    
   Version 0.0.1a  2013-09-29
-  ------------------------------------------------------------------------------
+  --------------------------------------------------------------------------------------------------------
     - first release, only for Windows
     - Qt GUI must work (CLI and WUI not testable)
     - wallet dump and wallet recovery must work (not the "with(out) balance" option)
